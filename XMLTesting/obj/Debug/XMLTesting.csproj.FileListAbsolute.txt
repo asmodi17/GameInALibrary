@@ -1,0 +1,8 @@
+C:\Users\Phillip\Documents\CS Projects\GameInALibrary\XMLTesting\obj\Debug\XMLTesting.csprojResolveAssemblyReference.cache
+C:\Users\Phillip\Documents\CS Projects\GameInALibrary\XMLTesting\bin\Debug\XMLTesting.exe.config
+C:\Users\Phillip\Documents\CS Projects\GameInALibrary\XMLTesting\bin\Debug\XMLTesting.exe
+C:\Users\Phillip\Documents\CS Projects\GameInALibrary\XMLTesting\bin\Debug\XMLTesting.pdb
+C:\Users\Phillip\Documents\CS Projects\GameInALibrary\XMLTesting\bin\Debug\GameInABox.dll
+C:\Users\Phillip\Documents\CS Projects\GameInALibrary\XMLTesting\bin\Debug\GameInABox.pdb
+C:\Users\Phillip\Documents\CS Projects\GameInALibrary\XMLTesting\obj\Debug\XMLTesting.exe
+C:\Users\Phillip\Documents\CS Projects\GameInALibrary\XMLTesting\obj\Debug\XMLTesting.pdb

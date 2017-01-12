@@ -1,0 +1,5 @@
+C:\Users\Phillip\Documents\CS Projects\GameInALibrary\GameInALibrary\bin\Debug\GameInABox.dll
+C:\Users\Phillip\Documents\CS Projects\GameInALibrary\GameInALibrary\bin\Debug\GameInABox.pdb
+C:\Users\Phillip\Documents\CS Projects\GameInALibrary\GameInALibrary\obj\Debug\GameInABox.csprojResolveAssemblyReference.cache
+C:\Users\Phillip\Documents\CS Projects\GameInALibrary\GameInALibrary\obj\Debug\GameInABox.dll
+C:\Users\Phillip\Documents\CS Projects\GameInALibrary\GameInALibrary\obj\Debug\GameInABox.pdb
