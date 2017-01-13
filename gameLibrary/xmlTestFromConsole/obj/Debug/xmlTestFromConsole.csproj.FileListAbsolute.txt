@@ -1,0 +1,8 @@
+C:\Users\asmod\Documents\code\gameLibrary\xmlTestFromConsole\bin\Debug\xmlTestFromConsole.exe.config
+C:\Users\asmod\Documents\code\gameLibrary\xmlTestFromConsole\bin\Debug\xmlTestFromConsole.exe
+C:\Users\asmod\Documents\code\gameLibrary\xmlTestFromConsole\bin\Debug\xmlTestFromConsole.pdb
+C:\Users\asmod\Documents\code\gameLibrary\xmlTestFromConsole\bin\Debug\gameLibrary.dll
+C:\Users\asmod\Documents\code\gameLibrary\xmlTestFromConsole\bin\Debug\gameLibrary.pdb
+C:\Users\asmod\Documents\code\gameLibrary\xmlTestFromConsole\obj\Debug\xmlTestFromConsole.csprojResolveAssemblyReference.cache
+C:\Users\asmod\Documents\code\gameLibrary\xmlTestFromConsole\obj\Debug\xmlTestFromConsole.exe
+C:\Users\asmod\Documents\code\gameLibrary\xmlTestFromConsole\obj\Debug\xmlTestFromConsole.pdb

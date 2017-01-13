@@ -1,0 +1,5 @@
+﻿<Skill Name="Sword">
+  <Stat>Strength</Stat>
+  <Stat>Dexterity</Stat>
+  <Type>Combat</Type>
+</Skill>

@@ -1,0 +1,5 @@
+C:\Users\asmod\Documents\code\gameLibrary\gameLibrary\bin\Debug\gameLibrary.dll
+C:\Users\asmod\Documents\code\gameLibrary\gameLibrary\bin\Debug\gameLibrary.pdb
+C:\Users\asmod\Documents\code\gameLibrary\gameLibrary\obj\Debug\gameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\asmod\Documents\code\gameLibrary\gameLibrary\obj\Debug\gameLibrary.dll
+C:\Users\asmod\Documents\code\gameLibrary\gameLibrary\obj\Debug\gameLibrary.pdb
